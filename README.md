@@ -3,7 +3,7 @@
 ## Collection Run Result
 
 Below is a screenshot of the test run results for the Postman collection, showcasing the successful execution of all test cases:
-![Run Collection](https://github.com/user-attachments/assets/bb92876f-63db-4dcc-9021-3aa02aec19d8)
+![image](https://github.com/user-attachments/assets/22f3ef67-4baf-423e-8e5a-cd98f0629dde)
 
 ## Prerequisites
 
