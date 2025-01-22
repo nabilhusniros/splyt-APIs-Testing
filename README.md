@@ -1,2 +1,1 @@
-# splyt-APIs-Testing
-Splyt API Automation
+# Splyt API Automation
